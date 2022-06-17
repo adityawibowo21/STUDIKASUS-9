@@ -24,7 +24,7 @@ void Buku::input(){
   for(int i=0; i<24; i++){
     cout<<array[i]<<", ";
   }
-}
+} 
 
 void Buku::proses() {
   for (int i = 0; i < 24; i++) {
